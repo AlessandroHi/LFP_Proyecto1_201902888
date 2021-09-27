@@ -1,0 +1,28 @@
+
+TOKEN               PATRON                              
+
+TITULO              palabra TITULO                                   
+ANCHO               palabra ANCHO                       
+ALTO                palabra ALTO                      
+FILAS               palabra FILAS                                                            
+COLUMNAS            palabra COLUMNAS                  
+CELDAS              palabra CELDAS
+FILTROS             palabra FILTROS
+MIRRORX             palabra MIRRORX
+MIRRORY             palabra MIRRORY
+DOUBLEMIRROR        palabra DOUBLEMIRROR
+ 
+igual               signo igual
+puntocoma           caracter punto y coma                 
+llavea              caracter llave que abre             
+llavec              caracter llave que cierra  
+corchetea           caracter de corchete de abertura
+corchetec           caracter de corchete de cierre        
+coma                caracter coma 
+arroba              caracter de arroba separación                      
+
+cadena              inicia y termina con " o '          
+entero              secuencia de digitos  
+codigo              codigo color hexagesimal              
+error               cualquier cosa no sea lenguaje  
+                 
